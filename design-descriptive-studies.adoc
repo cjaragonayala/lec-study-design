@@ -1,0 +1,207 @@
+= Diseño de estudios descriptivos
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+:date: 2022-02-10
+:customcss: my-css.css
+:icons: font
+:source-highlighter: highlightjs
+:revealjs_theme: night
+:revealjs_slideNumber: true
+:imagesdir: attch
+:title-slide-background-video: video-back2.mp4
+:title-slide-background-video-loop: true
+:title-slide-background-video-muted: true
+:title-slide-background-size: cover
+
+[.red.background]
+== Introducción al diseño de un estudio
+
+[.red.background]
+=== !
+
+[.step.highlight-green]#Operacionalizar# la pregunta de investigación
+
+[.red.background]
+=== Operacionalizar
+
+Concretizar lo conceptual (abstracto).
+
+Tener en cuenta varios elementos.
+
+[.red.background]
+=== !
+
+[.stretch]
+image::elem-inv-cient-update.jpg[]
+
+[.green.background]
+== Un recorrido para diseñar un estudio
+
+[.green.background]
+== Pregunta/objetivo "general"
+
+[.green.background]
+=== Intención del investigador
+
+|===
+|Descriptivo (relación no causal) |Analítico (relación causal)
+
+|Relación no causal
+|Relación causal
+|===
+
+[.green.background]
+=== Relaciones causales 
+
+* Una "exposición" y un "desenlace" realmente son parte de una vía causal
+* Efecto "real", libre de "confusión"
+* Asociación estadística donde se ha controlado confusores (población, análisis)
+* Utilidad: Prevención, tratamiento, solución de problemas a través de las causas
+
+[.green.background]
+=== Relaciones no causales
+
+* Puede no haber relación a estudiar
+* No te interesa demostrar relaciones causales (no control de confusores)
+* Puede interesarte generar hipótesis causales
+* Generas información que ayuda a: 
+** diagnóstico clínico o comunitario
+** pronóstico (predicción) no causal clínico o comunitario
+** métodos de estudio (mediciones, validaciones)
+
+[.green.background]
+=== !
+
+[cols="a,a"]
+|===
+|Descriptivo (relación no causal) |Analítico (relación causal)
+
+|
+* Diagnóstico 
+* Pronóstico descriptivo 
+* Orientado a Métodos
+|
+* Etiognóstico
+* Pronóstico intervencional
+* Orientado a Métodos
+|===
+
+[.red.background]
+== Tipo de estudio/Diseño per se
+
+[.red.background]
+=== Definición
+
+* Define tu plantilla de protocolo/artículo
+* Arquitectura/Estructura del trabajo
+* Forma de llevar a cabo o manejar el estudio
+* Llevan un nombre o etiqueta
+
+[.red.background]
+=== !
+
+image::study-designs-vanden.png[]
+
+[.red.background]
+=== !
+
+image::study-design-ahrens.png[]
+
+[.red.background]
+=== !
+
+image::study-design-paper.png[]
+
+[.red.background]
+=== Entonces ...
+
+[%step]
+* Más que una etiqueta, importa el contenido.
+
+[.red.background]
+=== Lo clásico:
+
+Observacionales
+
+[cols="1a,2a"]
+|===
+| Transversales
+| elegibilidad independiente, medición de exposición y desenlace, no tiempo
+
+| Casos y controles
+| elegibilidad según desenlace, medición de exposición, sí tiempo
+
+| Cohorte
+| elegibilidad según exposición, medición de desenlace, sí tiempo
+
+| Ecológico
+| unidad de observación = grupo
+|===
+
+[.red.background]
+=== Consejo práctico
+
+Identificación exahustiva de estudios comparables, analiza y "copia".
+
+[.green.background]
+== Población
+
+[.green.background]
+=== !
+
+[%step]
+. En quién quiero que aplique la evidencia generada? (población objetivo)
+. En quién voy a ejecutar el estudio? (población de estudio/accesible)
+. Cuánta población necesito? (tamaño de muestra)
+. Cómo evito pérdidas? (reclutamiento)
+. Cómo tendré el primer contacto con un potencial participante? (muestreo)
+. Cómo sabré si puede entrar al estudio? (evaluación inicial de elegibilidad)
+. Aceptará participar del estudio? (consentimiento informado)
+
+[.red.background]
+== Variables
+
+[.red.background]
+=== !
+
+[%step]
+. Qué vas a medir? (lista)
+. Qué significa cada una? (Definición conceptual, "diccionario", MT)
+. Qué valores finales decidiste tener como máximo? (escala de medición)
+. Cómo vas a saber el valor de la variable en un participante? (instrumento, pregunta, máquina, etc.)
+. Cómo vas a cerciorarte que estás midiendo adecuadamente? (plan de control de calidad)
+
+[.green.background]
+== Análisis
+
+[.green.background]
+=== !
+
+[%step]
+. Cómo llevarás lo recolectado a una forma lista para el análisis estadístico? (gestión de datos, "base de datos")
+. Qué tipo de método de estimación o prueba estadística aplicarás? (plan de análisis estadístico)
+
+== Resumen
+
+[%step]
+* Diseñar un estudio es transformar la pregunta de investigación en un plan.
+* El plan busca garantizar principios científicos, éticos y prácticos.
+* Identifica un vacío, exprésalo como pregunta, busca estudios comparables, escoge un diseño, detalla sobre la población, detalla sobre las variable, detalla sobre el análisis, considera evaluación por comité de ética. 
+* Los tipos de diseños son variables sustancialmente.
+* Fuera de la epidemiología, existen otros estudios descriptivos (bibliométricos)
+
+== Referencias
+
+* Van Den Broeck J. Epidemiology: Principles and Practical Guidelines. Springer. 2013
+* Ahrens. Handbook of Epidemiology. Springer. 2014.
+* Grimes DA, et. al. Descriptive studies: what they can and cannot do. Lancet 2002; 359: 145–49
+* Miettinen OS. Epidemiological Research: An Introduction. Springer. 2012
+* Porta M. A dictionary of epidemiology. Oxford Press. 2014.
+
+[background-video="video-back2.mp4",options="loop,muted"]
+== Presentación
+
+*Esta presentación disponible en*
+image:qr-slides.png[https://cjaragonayala.github.io/lec-theoretical-framework/] +
+[emphasize]#*https://bit.ly/3LcuUBe*#
+
+
