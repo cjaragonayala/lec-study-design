@@ -201,7 +201,7 @@ Identificación exahustiva de estudios comparables, analiza y "copia".
 == Presentación
 
 *Esta presentación disponible en*
-image:qr-slides.png[https://cjaragonayala.github.io/lec-theoretical-framework/] +
-[emphasize]#*https://bit.ly/3LcuUBe*#
+image:qr-slides.png[https://cjaragonayala.github.io/lec-study-design/] +
+[emphasize]#*https://bit.ly/3GHEQyU*#
 
 
